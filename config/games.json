@@ -1,9 +1,9 @@
 [
   {
-    "name": "1v1lol",
+    "name": "subway surfers",
     "image": "logo.png",
-    "url": "1v1lol",
-    "new": false
+    "url": "subwaysurfers",
+    "new": true
   },
   {
     "name": "1v1space",
